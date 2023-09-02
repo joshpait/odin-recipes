@@ -1,3 +1,33 @@
 * {
+    padding: 0;
+    margin: 0;
+}
+
+body {
     font-family: Helvetic, sans-serif;
+    background-color: #f1c9a9;
+    text-align: center;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+.title {
+    background-color: white;
+    font-size: 24px;
+    width: 600px;
+    margin: 16px auto;
+}
+
+.content {
+    background-color: white;
+    width: 600px;
+    margin: 16px auto;
+}
+
+li {
+    margin: 8px auto;
+    list-style-type: none;
 }
