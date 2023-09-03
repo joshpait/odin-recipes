@@ -11,7 +11,7 @@ body {
 }
 
 img {
-    width: 600px;
+    width: 480px;
     height: auto;
 }
 
@@ -20,6 +20,7 @@ img {
     font-size: 36px;
     width: 600px;
     margin: 16px auto;
+    padding: 8px;
 }
 
 .content {
